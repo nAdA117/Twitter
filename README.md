@@ -76,5 +76,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='tweet 3' width='' alt='Video Walkthrough' />
+<img src="twitter 3.gif" width=250><br>
 
